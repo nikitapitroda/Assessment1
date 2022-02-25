@@ -1,0 +1,16 @@
+D:\AsynchronousDownloads\AsynchronousDownloads\bin\Debug\net5.0\AsynchronousDownloads.exe
+D:\AsynchronousDownloads\AsynchronousDownloads\bin\Debug\net5.0\AsynchronousDownloads.deps.json
+D:\AsynchronousDownloads\AsynchronousDownloads\bin\Debug\net5.0\AsynchronousDownloads.runtimeconfig.json
+D:\AsynchronousDownloads\AsynchronousDownloads\bin\Debug\net5.0\AsynchronousDownloads.runtimeconfig.dev.json
+D:\AsynchronousDownloads\AsynchronousDownloads\bin\Debug\net5.0\AsynchronousDownloads.dll
+D:\AsynchronousDownloads\AsynchronousDownloads\bin\Debug\net5.0\ref\AsynchronousDownloads.dll
+D:\AsynchronousDownloads\AsynchronousDownloads\bin\Debug\net5.0\AsynchronousDownloads.pdb
+D:\AsynchronousDownloads\AsynchronousDownloads\obj\Debug\net5.0\AsynchronousDownloads.csproj.AssemblyReference.cache
+D:\AsynchronousDownloads\AsynchronousDownloads\obj\Debug\net5.0\AsynchronousDownloads.GeneratedMSBuildEditorConfig.editorconfig
+D:\AsynchronousDownloads\AsynchronousDownloads\obj\Debug\net5.0\AsynchronousDownloads.AssemblyInfoInputs.cache
+D:\AsynchronousDownloads\AsynchronousDownloads\obj\Debug\net5.0\AsynchronousDownloads.AssemblyInfo.cs
+D:\AsynchronousDownloads\AsynchronousDownloads\obj\Debug\net5.0\AsynchronousDownloads.csproj.CoreCompileInputs.cache
+D:\AsynchronousDownloads\AsynchronousDownloads\obj\Debug\net5.0\AsynchronousDownloads.dll
+D:\AsynchronousDownloads\AsynchronousDownloads\obj\Debug\net5.0\ref\AsynchronousDownloads.dll
+D:\AsynchronousDownloads\AsynchronousDownloads\obj\Debug\net5.0\AsynchronousDownloads.pdb
+D:\AsynchronousDownloads\AsynchronousDownloads\obj\Debug\net5.0\AsynchronousDownloads.genruntimeconfig.cache
